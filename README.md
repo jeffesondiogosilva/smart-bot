@@ -7,9 +7,6 @@
 ### Funcionalidades 
 #### enviar mensagens automaticamente pelo whatsapp
 
-
-
-
 ### Como utilizar
 #### O whatsapp web tem que estar conectado e logado para quando executar o arquivo app.py a aplicação envie as mensagens para os contatos selecionados
 
