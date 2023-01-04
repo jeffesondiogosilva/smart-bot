@@ -5,7 +5,7 @@
 #### Smart Bot é uma aplicação automatizada feita com a linguagem python capaz de enviar mensagens pelo whatsapp automaticamente
 
 ### Funcionalidades 
-#### enviar mensagens automaticamente
+#### enviar mensagens automaticamente pelo whatsapp
 
 
 
